@@ -1,0 +1,219 @@
+Year,Sample Location,Lab code,Date,Temp,PH,EC(µS/cm),TS(mg/l),TDS(mg/l),SS(mg/l),DO(mg/l),Salinity(%)
+2017,"Karnafully River CUFL side  Anowara, Ctg.",403,5/1/2017,22.2,8.1,20450,10414,10228,186,5.6,14.2
+2017,"Karnafully River TSP Side, Patenga, Ctg.",404,5/1/2017,22.2,7.9,19984,10190,9992,198,6.1,13.8
+2017,"Karnafully River CUFL side  Anowara, Ctg.",437,5/2/2017,21.1,7.3,22580,11494,11292,202,4.8,14.8
+2017,"Karnafully River TSP Side, Patenga, Ctg.",438,5/2/2017,21.1,7.9,21356,10906,10678,228,5.4,13.6
+2017,"Karnafully River TSP Side, Patenga, Ctg.",471,7/3/2017,25.6,7.3,26330,13476,13168,308,6.1,17.2
+2017,"Karnafully River CUFL side  Anowara, Ctg.",472,7/3/2017,25.4,7.5,24990,12838,12496,342,5.9,16.4
+2017,"Karnafully River CUFL side Anowara, Ctg.",505,6/4/2017,31.4,7.6,24280,12410,12144,266,5.2,17.4
+2017,"Karnafully River TSP Side, Patenga, Ctg.",506,6/4/2017,31.4,8.4,22192,11344,11096,248,4.7,17.1
+2017,"Karnafully River CUFL side  Anowara, Ctg.",539,7/5/2017,25.8,7.6,6064,3252,3032,220,6.8,7.4
+2017,"Karnafully River TSP Side, Patenga, Ctg.",540,7/5/2017,25.8,7.4,5352,2974,2676,298,6.6,7.3
+2017,"Karnafully River CUFL side  Anowara, Ctg.",573,7/6/2017,30.3,7.2,2050,1268,1026,242,6.5,3.1
+2017,"Karnafully River TSP Side, Patenga, Ctg.",574,7/6/2017,30.1,7.7,2456,1456,1228,228,6.7,2.6
+2017,"Karnafully River CUFL side  Anowara, Ctg.",607,4/7/2016,28.7,6.8,2110,1276,1066,210,6.2,1.55
+2017,"Karnafully River TSP Side, Patenga, Ctg.",608,4/7/2016,28.6,7.2,1523,897,765,132,6.5,1.23
+2017,"Karnafully River CUFL side  Anowara, Ctg.",641,3/8/2017,30.4,7.9,5910,3216,2956,260,6.9,3.3
+2017,"Karnafully River TSP Side, Patenga, Ctg.",642,3/8/2017,30.4,7.1,4040,2187,2021,166,6.1,2.75
+2017,"Karnafully River CUFL side  Anowara, Ctg.",676,7/9/2017,29,7.9,12180,6580,6090,490,6.5,6.1
+2017,"Karnafully River TSP Side, Patenga, Ctg.",677,7/9/2017,29,7.2,10160,5495,5080,415,6.1,5
+2017,"Karnafully River CUFL side  Anowara, Ctg.",710,5/10/2017,29,7.9,12684,6850,6340,510,6.5,7.1
+2017,"Karnafully River TSP Side, Patenga, Ctg.",711,5/10/2017,29,7.2,10426,5645,5210,435,7.3,6.2
+2017,"Karnafully River CUFL side  Anowara, Ctg.",744,5/11/2017,25,8.1,13045,7010,6520,490,6.8,7.6
+2017,"Karnafully River TSP Side, Patenga, Ctg.",745,5/11/2017,25,7.6,10170,5544,5089,455,6.1,5.9
+2017,"Karnafully River CUFL side  Anowara, Ctg.",778,4/12/2017,22,6.5,12571,6798,6288,510,6.8,6.9
+2017,"Karnafully River TSP Side, Patenga, Ctg.",779,4/12/2017,22,7.8,10338,5599,5167,432,6.1,6.1
+2018,"Karnafully River CUFL side  Anowara, Ctg.",812,4/1/2018,21.5,8.6,20670,10516,10338,178,5.4,13.8
+2018,"Karnafully River TSP Side, Patenga, Ctg.",813,4/1/2018,21.5,8.2,19776,10056,9890,166,5.9,12.7
+2018,"Karnafully River CUFL side  Anowara, Ctg.",846,5/2/2018,25.8,7.8,24241,12333,12123,210,5.1,14.5
+2018,"Karnafully River TSP Side, Patenga, Ctg.",847,5/2/2018,25.8,6.9,21728,11086,10865,221,5.8,12.9
+2018,"Karnafully River TSP Side, Patenga, Ctg.",880,6/3/2018,26.6,7.7,26330,13546,13226,320,6.7,17.5
+2018,"Karnafully River CUFL side  Anowara, Ctg.",881,6/3/2018,26.4,7.1,24990,12917,12570,347,5.2,16.7
+2018,"Karnafully River CUFL side Anowara, Ctg.",914,5/4/2018,32.4,7.2,24923,12668,12467,201,5.6,17.1
+2018,"Karnafully River TSP Side, Patenga, Ctg.",915,5/4/2018,32.4,8.1,22309,11374,11156,218,5.1,17.9
+2018,"Karnafully River CUFL side  Anowara, Ctg.",948,7/5/2018,31.9,8,14100,7265,7054,211,6.6,6.9
+2018,"Karnafully River TSP Side, Patenga, Ctg.",949,7/5/2018,31.8,7.8,10070,5302,5035,267,7.1,7.7
+2018,"Karnafully River CUFL side  Anowara, Ctg.",982,4/6/2018,30.5,7.8,3442,2008,1740,268,5.9,4.8
+2018,"Karnafully River TSP Side, Patenga, Ctg.",983,4/6/2018,30.9,7.1,3185,1826,1586,240,6.3,3.7
+2018,"Karnafully River  CUFL side  Anowara, Ctg.",6,5/7/2018,30.8,7.8,4022,2255,2009,246,8.1,1.1
+2018,"Karnafully River  TSP Side, Patenga, Ctg.",7,,30.6,7.1,2644,1697,1320,377,7,1.4
+2018,"Karnafully River  Chaktai Khal, ctg.",8,,31.2,7.4,217,362,105,257,7.5,1.6
+2018,"Karnafully River CUFL side  Anowara, Ctg.",38,6/8/2018,31.7,7.5,5880,3333,3070,263,8.8,1.7
+2018,"Karnafully River TSP Side, Patenga, Ctg.",39,,31.6,7.6,3170,2224,1811,413,6.9,2.1
+2018,"Karnafully River Chaktai Khal, ctg.",40,,31.7,7.7,209,374,111,389,7.3,1.9
+2018,"Karnafully River CUFL side  Anowara, Ctg.",69,6/9/2018,30,6.5,11231,5877,5620,257,7.6,5.78
+2018,"Karnafully River TSP Side, Patenga, Ctg.",70,,30.4,6.4,11063,5948,5540,408,7.5,5.68
+2018,"Karnafully River Chaktai Khal, ctg.",71,,30.5,8.1,242.8,490,115.9,375,5.1,0.09
+2018,"Karnafully River CUFL side  Anowara, Ctg.",100,4/10/2018,29.7,7.1,13029,6797,6510,287,7.9,5.86
+2018,"Karnafully River TSP Side, Patenga, Ctg.",101,,29.1,6.8,13246,6987,6628,359,7.4,5.25
+2018,"Karnafully River Chaktai Khal, ctg.",102,,29.5,8,328,479,160,319,5,0.11
+2018,"Karnafully River CUFL side  Anowara, Ctg.",100,4/11/2018,27.8,7.9,15779,8160,7890,270,7.08,7.98
+2018,"Karnafully River TSP Side, Patenga, Ctg.",101,,27.9,7.2,15568,8165,7780,385,7.7,7.86
+2018,"Karnafully River Chaktai Khal, ctg.",102,,28.2,7.7,386,552,198,354,5.6,0.13
+2018,"Karnafully River CUFL side  Anowara, Ctg.",162,5/12/2018,25.6,7.7,20090,13183,12860,323,7.2,13.49
+2018,"Karnafully River TSP Side, Patenga, Ctg.",163,,25.4,7.6,15320,10132,9550,582,7.1,9.92
+2018,"Karnafully River Chaktai Khal, ctg.",164,,25.4,7.5,402,547,205,342,5.1,0.21
+2019,"Karnafully River CUFL side  Anowara, Ctg.",193,6/1/2019,26,7.9,33512,17056,16750,306,8.5,17.37
+2019,"Karnafully River TSP Side, Patenga, Ctg.",194,,26.7,7.8,20869,10686,10430,256,7.5,10.85
+2019,"Karnafully River Chaktai Khal, ctg.",195,,26.5,7.6,453,539,232,307,5.7,0.34
+2019,"Karnafully River CUFL side  Anowara, Ctg.",224,5/2/2019,28.8,7.8,17932,9179,8960,219,8.2,9.29
+2019,"Karnafully River TSP Side, Patenga, Ctg.",225,,28.7,8,7017,3670,3510,160,7.7,3.58
+2019,"Karnafully River Chaktai Khal, ctg.",226,,28,7.5,418,490,212,278,5.9,0.42
+2019,"Karnafully River CUFL side  Anowara, Ctg.",255,6/3/2019,31.3,7.9,17118,8769,8520,249,8.1,8.1
+2019,"Karnafully River TSP Side, Patenga, Ctg.",256,,31.5,8.2,6729,3606,3434,172,7.5,3
+2019,"Karnafully River Chaktai Khal, ctg.",257,,31,7.8,438,496,210,286,5.7,0.55
+2019,"Karnafully River CUFL side  Anowara, Ctg.",285,4/4/2019,29,7,20840,13273,13080,193,6.5,13.7
+2019,"Karnafully River TSP Side, Patenga, Ctg.",286,,30.2,7.1,11220,6780,6580,200,6,6.5
+2019,"Karnafully River Chaktai Khal, ctg.",287,,29.2,6.8,768,496,405,353,4.5,0.4
+2019,"Karnafully River CUFL side  Anowara, Ctg.",316,7/5/2019,29.6,7.1,21510,12852,12670,182,6.3,12.6
+2019,"Karnafully River TSP Side, Patenga, Ctg.",317,,29.7,7.3,10717,6482,6290,192,6.1,5
+2019,"Karnafully River Chaktai Khal, ctg.",318,,29.5,6.9,790,750,421,329,4.6,0.34
+2019,"Karnafully River CUFL side  Anowara, Ctg.",350,12/6/2019,27.4,7.5,19678,10600,10440,160,8,9.4
+2019,"Karnafully River TSP Side, Patenga, Ctg.",351,,27.5,7.5,13190,7622,7450,172,8.4,4.5
+2019,"Karnafully River Chaktai Khal, ctg.",352,,27.6,7.6,810,715,435,280,6.1,0.3
+2019,"Karnafully River CUFL side  Anowara, Ctg.",384,8/7/2019,28.8,7.6,2310,1522,1235,287,7.1,1.35
+2019,"Karnafully River TSP Side, Patenga, Ctg.",385,,28.3,7.9,97.6,232,48.3,184,7.7,0.05
+2019,"Karnafully River Chaktai Khal, ctg.",386,,28.4,7.7,162.8,715,81.2,280,6.1,0.3
+2019,"Karnafully River CUFL side  Anowara, Ctg.",417,6/8/2019,29,8.1,1360,979,727.9,252,5.09,0.73
+2019,"Karnafully River TSP Side, Patenga, Ctg.",418,,29.2,8.8,128.9,135,69,66,4.59,0.07
+2019,"Karnafully River Chaktai Khal, ctg.",419,,29.6,8.4,360,367,191.9,176,4.2,0.19
+2019,"Karnafully River CUFL side  Anowara, Ctg.",450,5/9/2019,29.1,7.82,1399,1035,751,284,6.54,0.07
+2019,"Karnafully River TSP Side, Patenga, Ctg.",451,,29.4,8.14,142,182,71.7,111,6.61,0.07
+2019,"Karnafully River Chaktai Khal, ctg.",452,,29.6,7.68,110.1,206.2,56.2,150,7.18,0.06
+2019,"Karnafully River CUFL side  Anowara, Ctg.",483,6/10/2019,29,7.7,23600,13144,12860,284,6.79,13.1
+2019,"Karnafully River TSP Side, Patenga, Ctg.",484,,28.7,7.73,23100,13480,12560,920,6.57,12.86
+2019,"Karnafully River Chaktai Khal, ctg.",485,,28.6,7.63,2092,1451,982,469,3.27,0.96
+2019,"Karnafully River CUFL side  Anowara, Ctg.",541,26/11/19,30,7.82,29800,19122,18640,482,6.87,19.24
+2019,"Karnafully River TSP Side, Patenga, Ctg.",542,,28.7,7.74,28000,17606,17400,206,7,17.96
+2019,"Karnafully River Chaktai Khal, ctg.",543,,28.8,7.88,10850,6736,6180,556,3.99,6.43
+2020,"Karnafully River CUFL side  Anowara, Ctg.",26,28/01/20,21.7,7.6,26700,18153,17820,333,8.3,18.41
+2020,"Karnafully River TSP Side, Patenga, Ctg.",27,,22.9,7.02,26780,14718,14520,198,7.38,15.01
+2020,"Karnafully River Chaktai Khal, ctg.",28,,22.5,7.49,11110,6935,6810,125,5.43,7.11
+2020,"Karnafully River CUFL side  Anowara, Ctg.",59,25/02/20,22.9,7.86,36630,18645,18327,318,7.67,19.04
+2020,"Karnafully River TSP Side, Patenga, Ctg.",60,,22.5,7.32,31670,15859,15677,182,7.7,16.43
+2020,"Karnafully River Chaktai Khal, ctg.",61,,22.8,7.55,11458,5760,5640,120,5.68,6.1
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",73,18/03/20,22.8,7.88,33756,19067,18642,425,7.73,18.72
+2020,"Karnafully River TSP Side, Patenga, Ctg.",74,,22.9,7.64,31121,17982,17614,368,6.17,16.61
+2020,"Karnafully River KAFCO Side, ctg.",75,,22.5,7.96,25963,16461,16142,319,7.12,17.98
+2020,"Karnafully River Chaktai Khal, ctg.",76,,23.1,7.69,6810,5158,4982,176,2.86,4.13
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",106,21/04/20,22,7.78,25500,17670,16340,1330,8.2,16.81
+2020,"Karnafully River TSP Side, Patenga, Ctg.",107,,22.6,7.58,25200,17206,16260,946,6.45,16.8
+2020,"Karnafully River KAFCO Side, ctg.",108,,22.5,7.9,25000,16896,16000,896,8.48,16.1
+2020,"Karnafully River Chaktai Khal, ctg.",109,,22,7.33,3510,2200,1976,224,3.38,2.01
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",139,12/5/2020,21.9,7.72,9770,5733,5530,203,5.56,5.71
+2020,"Karnafully River TSP Side, Patenga, Ctg.",140,,22,7.1,2780,1706,1478,228,4.39,1.5
+2020,"Karnafully River Chaktai Khal, ctg.",141,,22.4,7.22,766,798,390,408,0.78,0.39
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",171,18/06/20,21,7.01,9310,4850,4630,220,5.9,5.1
+2020,"Karnafully River TSP Side, Patenga, Ctg.",172,,21.8,7.16,7042,3733,3528,205,5.29,4.01
+2020,"Karnafully River Chaktai Khal, ctg.",173,,21.9,7.2,574,603,290,313,4.07,0.31
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",204,8/7/2020,21.3,7.73,3480,5264,1784,734,6.99,1.77
+2020,"Karnafully River TSP Side, Patenga, Ctg.",205,,21,7.78,2980,3733,1465,676,6.38,1.5
+2020,"Karnafully River Chaktai Khal, ctg.",206,,21,7,510,625,275,350,4.59,0.28
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",232,5/8/2020,21.7,7.79,3509,2580,1800,780,6.88,1.67
+2020,"Karnafully River TSP Side, Patenga, Ctg.",233,,21.2,7.84,3160,2299,1509,790,6.3,1.7
+2020,"Karnafully River Chaktai Khal, ctg.",234,,21,7.1,640,690,320,370,4.5,0.3
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",275,29/09/20,22.7,7.76,3740,2693,2011,682,6.62,2.05
+2020,"Karnafully River TSP Side, Patenga, Ctg.",276,,22.9,7.83,3340,3278,1770,1508,6.44,1.8
+2020,Karnafully River KAFCO side.,277,,22.5,7.7,3770,3442,2012,1430,6.61,2.05
+2020,15 NO. Ghat.,278,,22.8,7.64,3510,2933,1863,1070,6.48,1.9
+2020,"Karnafully River Chaktai Khal, ctg.",279,,22.6,7.1,628,700,310,390,4.58,0.3
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",305,27/10/20,22.4,7.26,8070,2693,4720,183,7.13,4.8
+2020,"Karnafully River TSP Side, Patenga, Ctg.",306,,22.5,7.42,4550,3278,2570,83,7.35,2.63
+2020,Karnafully River KAFCO side.,307,,22.7,7.24,8610,3442,4560,117,7.27,4.69
+2020,"Karnafully River Chaktai Khal, ctg.",308,,22.6,7.12,690,690,340,350,4.6,0.35
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",339,26/11/20,22.9,8.17,19940,11870,11700,170,7.1,12.01
+2020,"Karnafully River TSP Side, Patenga, Ctg.",340,,22.6,8.24,17650,9850,9660,190,7.28,9.6
+2020,Karnafully River KAFCO side.,341,,23.5,8.37,21390,13835,13670,165,7.36,13.1
+2020,"Karnafully River Chaktai Khal, ctg.",342,,22.6,8.11,20245,13460,13210,250,4.14,13.21
+2020,15 No Ghat,343,,23.5,8.19,21380,12901,12660,241,5.49,13.09
+2020,"Karnafully River CUFL side,  Anowara, Ctg.",400,28/12/20,22.7,7.25,30080,19903,19630,273,8.38,20.3
+2020,"Karnafully River TSP Side, Patenga, Ctg.",401,,22.7,7.58,19030,11698,11570,128,6.37,11.99
+2020,Karnafully River KAFCO side.,402,,22.6,7.78,30900,19940,19660,280,8.48,20.36
+2020,"Karnafully River Chaktai Khal, ctg.",403,,23,7.57,12260,7280,7170,110,5.86,7.43
+2021,k.R.CUFL Side,425,28/01/21,22.5,7,13200,8113,8040,73,6.56,8.35
+2021,K.R.TSP Side,426,,21.5,6.59,18140,11500,11370,130,8.1,11.79
+2021,K.R Shikalbaha P.S.,427,,22.5,7.89,4000,2101,2080,21,6.43,2.09
+2021,K.R Kalurghat Bridge.,428,,22.5,8.19,149.8,127.4,72.4,55,7.04,0.07
+2021,K.R Mariam Nagar.,429,,21.5,8.2,151,128.2,79.2,49,6.47,0.08
+2021,K.R karnaphuli Paper Mills.,430,,21.5,7.23,179.5,80.5,68.5,12,7.48,0.08
+2021,k.R.CUFL Side,493,28/02/21,21.5,7.32,13200,8113,8340,79,6.36,8.32
+2021,K.R.TSP Side,494,,22.5,7.1,18140,11500,1240,145,8.42,1.24
+2021,K.R Shikalbaha P.S.,495,,22,7.57,4178,2165,2130,35,6.69,2.14
+2021,K.R Kalurghat Bridge.,496,,22.5,7.22,221,183,145,38,7.44,0.14
+2021,K.R Mariam Nagar.,497,,21,7.35,190,150,121,29,6.56,0.12
+2021,K.R karnaphuli Paper Mills.,498,,21.5,7.16,175,63.2,58.2,5,7.44,0.06
+2021,CUFL Side,511,27/03/21,22.5,7.42,16780,9790,9670,120,,9.6
+2021,TSP Side,512,,23.5,7.21,25790,13604,13450,154,,13.6
+2021,Shikalbaha P.S.,513,,23,7.67,4340,2402,2360,42,,2.4
+2021,Kalurghat Bridge.,514,,23.5,7.32,293,201,167,34,,0.16
+2021,Mariam Nagar.,515,,22,7.43,257,190,148,42,,0.14
+2021,karnaphuli Paper Mills.,516,,22.5,7.26,147,79,69,10,,0.07
+2022,CUFL Side,900,23/01/22,20.5,7.21,2800,1484,1462,22,7.57,
+2022,TSP Side,901,,20,7.33,2300,1201,1189,12,7.55,
+2022,Shikalbaha,902,,21,7.58,689,388,329,59,7.39,
+2022,Kalurghat Bridge,903,,20.5,7.35,286,217,149,68,7.34,
+2022,Mariam Nagar,904,,21.5,7.32,328,265,169,96,7.18,
+2022,Karnaphuli paper,905,,20,7.46,512,290,208,82,7.43,
+2022,CUFL Side,1030,27/02/22,22.5,7.4,2976,1705,1679,26,7.65,
+2022,TSP Side,1031,,21,7.62,2467,1304,1235,69,7.49,
+2022,Shikalbaha,1032,,22,7.65,769,504,435,69,7.47,
+2022,Kalurghat Bridge,1033,,21.5,7.29,249,168,129,39,7.38,
+2022,Mariam Nagar,1034,,23.5,7.19,298,208,159,49,7.27,
+2022,Karnaphuli paper,1035,,21,7.4,489,310,223,87,7.39,
+2022,CUFL Side,1036,24/03/22,24.5,6.55,28789,17262,17230,32,7.64,
+2022,TSP Side,1037,,25,7.07,  2657 0  222657 264121234,13002,12980,22,7.09,
+2022,Shikalbaha,1038,,23,7.69,765,447,380,67,7.43,
+2022,Kalurghat Bridge,1039,,22.5,7.43,289,238,159,79,7.56,
+2022,Mariam Nagar,1040,,24.5,7.39,412,279,189,90,7.28,
+2022,Karnaphuli paper,1041,,23.5,7.58,439,367,269,98,7.59,
+2022,CUFL Side,1042,27/04/22,23,7.47,18160,10602,10250,352,7.85,
+2022,TSP Side,1043,,26,7.38,16000,9150,8960,190,8.05,
+2022,Shikalbaha,1044,,24,7.58,765,419,348,71,7.52,
+2022,Kalurghat Bridge,1045,,23.5,7.51,289,248,163,85,7.63,
+2022,Mariam Nagar,1046,,25.5,7.52,412,292,214,78,7.39,
+2022,Karnaphuli paper,1047,,24,7.68,439,399,287,112,7.62,
+2022,CUFL Side,1047,24/05/22,25,7.56,18160,6926,6567,359,7.63,
+2022,TSP Side,1048,,26,7.46,16000,8923,8768,155,7.85,
+2022,Shikalbaha,1049,,27,7.63,765,360,289,71,7.46,
+2022,Kalurghat Bridge,1050,,25.5,7.63,289,264,179,85,7.71,
+2022,Mariam Nagar,1051,,26.5,7.49,412,325,247,78,7.46,
+2022,Karnaphuli paper,1052,,24,7.73,439,381,269,112,7.72,
+2022,CUFL Side,1083,7/6/2022,24.5,7.48,18476,1015,9872,284,7.66,
+2022,TSP Side,1084,,24.6,7.32,17014,8662,8472,190,7.99,
+2022,Kalurghat Bridge,1086,,24.8,7.52,414,282,218,64,8.17,
+2022,CUFL Side,1189,19/07/22,24,7.04,10134,5830,5320,510,7.51,
+2022,TSP Side,1190,,23,6.97,8234,6640,4940,1700,7.1,
+2022,Shikalbaha,1191,,24,7.48,459,340,219,121,7.57,
+2022,Kalurghat Bridge,1192,,23.5,7.73,239,208,119,89,7.53,
+2022,Mariam Nagar,1193,,24.5,7.52,469,361,247,114,7.52,
+2022,Karnaphuli Paper,1194,,25,7.62,524,389,242,147,7.82,
+2022,CUFL Side,1195,20/08/22,24,7.18,23380,12830,12420,410,7.59,
+2022,TSP Side,1196,,23,6.76,20390,11264,10250,1014,7.28,
+2022,Shikalbaha,1197,,24,7.28,745,546,328,218,7.68,
+2022,Kalurghat Bridge,1198,,23.5,7.69,546,390,248,142,7.28,
+2022,Mariam Nagar,1199,,24.5,7.67,678,470,328,142,7.39,
+2022,Karnaphuli paper,1200,,25,7.73,679,541,359,182,7.72,
+2022,CUFL Side,1204,23/09/22,23,7.71,3830,2238,2060,178,7.47,
+2022,TSP Side,1205,,24,8.18,348,421,174,247,7,
+2022,Shikalbaha,1206,,24.5,7.62,632,556,328,228,7.49,
+2022,Kalurghat Bridge,1207,,24.5,7.46,498,377,248,129,7.39,
+2022,Mariam Nagar,1208,,25.5,7.72,635,492,328,164,7.46,
+2022,Karnaphuli paper,1209,,23.5,7.68,699,551,359,192,7.68,
+2022,CUFL Side,1210,14/10/22,23.5,7.79,4216,2238,2060,178,7.47,
+2022,TSP Side,1211,,23,7.89,359,421,174,247,7,
+2022,Shikalbaha,1212,,24,7.78,678,556,328,228,7.49,
+2022,Kalurghat Bridge,1213,,23.5,7.57,512,377,248,129,7.39,
+2022,Mariam Nagar,1214,,22.5,7.72,689,492,328,164,7.46,
+2022,Karnaphuli paper,1215,,24.5,7.79,748,551,359,192,7.68,
+2022,CUFL Side,1295,23/11/22,23,6.11,14200,8135,7960,175,6.47,
+2022,TSP Side,1296,,22.3,6.45,9570,5385,5320,65,5.7,
+2022,Shikalbaha,1297,,23,7.57,489,362,289,73,7.1,
+2022,Kalurghat Bridge,1298,,22.5,7.42,569,454,312,142,7.19,
+2022,Mariam Nagar,1299,,23.5,7.24,498,405,280,125,7.33,
+2022,Karnaphuli paper,1300,,23.5,7.11,694,455,345,110,7.49,
+2022,CUFL Side,1348,22/12/22,22,7.44,36500,18698,18550,148,8.42,
+2022,TSP Side,1349,,23,7.53,19110,11518,11480,38,7.4,
+2022,Shikalbaha,1350,,23.5,7.18,538,278,189,89,7.38,
+2022,Kalurghat Bridge,1351,,23.5,7.21,459,365,286,79,7.77,
+2022,Mariam Nagar,1352,,22.5,7.41,358,380,318,62,7.28,
+2022,Karnaphuli paper,1353,,22.5,7.28,523,363,269,94,7.39,
