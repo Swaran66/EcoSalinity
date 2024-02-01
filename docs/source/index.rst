@@ -13,7 +13,7 @@ Welcome to the EcoSalinity documentation!
 
    Introduction
    Getting Started
-   Usage
+   Tools
    ...
 
 
