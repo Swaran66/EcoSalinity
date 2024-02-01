@@ -15,7 +15,7 @@ The implementation of our machine learning models relies on several key Python l
 - numpy
 - matplotlib
 - seaborn
-- (add any other dependencies your project uses)
+
 
 These libraries contribute to data manipulation, numerical operations, and visualization, enhancing the efficiency and effectiveness of our analysis.
 
