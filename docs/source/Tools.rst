@@ -62,9 +62,6 @@ create_multiline_plots
 
 The `create_multiline_plots` function in EcoSalinity is designed to generate multiline plots for two specified columns across multiple years in a Pandas DataFrame.
 
-Usage
------
-
 To use the `create_multiline_plots` function, provide a Pandas DataFrame that SCALED, the column for the x-axis(months,years etc), and two columns for the y-axis. Optionally, you can specify the number of rows and columns for the subplots. Here's an example:
 
 **Example:**
@@ -77,9 +74,6 @@ correlation_heatmap
 -------------------
 
 The `correlation_heatmap` function in EcoSalinity is designed to create a correlation heatmap for the scaled numeric water quality parameters in a Pandas DataFrame.
-
-Usage
------
 
 To use the `correlation_heatmap` function, provide a Pandas DataFrame with numeric columns. Here's an example:
 
@@ -95,14 +89,14 @@ regressor
 The `regressor` function in EcoSalinity is designed to train and evaluate a regression model on the given training and test sets.
 
 Parameters:
-- `model_class` (class): Class of the regression model to be instantiated (e.g., `RandomForestRegressor`).
-- `X_train` (array-like or pd.DataFrame): Features of the training set.
-- `y_train` (array-like or pd.Series): Target variable of the training set.
-- `X_test` (array-like or pd.DataFrame): Features of the test set.
-- `y_test` (array-like or pd.Series): Target variable of the test set.
+   - `model_class` (class): Class of the regression model to be instantiated (e.g., `RandomForestRegressor`).
+   - `X_train` (array-like or pd.DataFrame): Features of the training set.
+   - `y_train` (array-like or pd.Series): Target variable of the training set.
+   - `X_test` (array-like or pd.DataFrame): Features of the test set.
+   - `y_test` (array-like or pd.Series): Target variable of the test set.
 
 Returns:
-- `score` (float): R-squared score on the test set.
+   - `score` (float): R-squared score on the test set.
 
 **Example:**
 
