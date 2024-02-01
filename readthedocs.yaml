@@ -1,16 +1,17 @@
-version: 2
+version: "2"
 
-# Optional: Set the Python version for your documentation build
-python:
-  version: 3.8
-  setup_py_install: true
-
-# Build settings
 build:
-  image: latest
+  os: "ubuntu-22.04"
+  tools:
+    python: "3.10"
 
-# Documentation versions
-docs:
-  version: latest
+python:
+  install:
+    - requirements: docs/requirements.txt
 
+sphinx:
+  configuration: docs/source/conf.py
 
+formats:
+  - pdf
+  - epub
