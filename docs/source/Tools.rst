@@ -46,9 +46,6 @@ create_line_plots
 
 The `create_line_plots` function in EcoSalinity is designed to generate line plots for a specific column across multiple years in a Pandas DataFrame.
 
-Usage
------
-
 To use the `create_line_plots` function, provide a Pandas DataFrame, the target column name, and a list of years. Here's an example:
 
 **Example:**
