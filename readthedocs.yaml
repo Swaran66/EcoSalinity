@@ -1,1 +1,16 @@
 version: 2
+
+# Optional: Set the Python version for your documentation build
+python:
+  version: 3.8
+  setup_py_install: true
+
+# Build settings
+build:
+  image: latest
+
+# Documentation versions
+docs:
+  version: latest
+
+
